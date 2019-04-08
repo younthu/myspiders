@@ -1,2 +1,6 @@
 # myspiders
-All spiders i created/used in scrapy
+这个库用来记录所有我开发过的或者使用过的爬虫，以及踩过的坑.
+
+
+## 联系我
+给我加星，然后给我发邮件吧.
