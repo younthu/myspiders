@@ -18,5 +18,15 @@ response.xpath('//*[@id="kkpager"]/div/span/a/@href').extract() | 获取页面�
 response.xpath('//*[@id="kkpager"]/div/span/a/@href').extract_first() | 获取第一个链接url
 
 
+## 常见问题
+1. 图片下载, https://segmentfault.com/a/1190000009597329 , https://www.jianshu.com/p/0ea820236e16
+2. 反爬: redirect
+3. 
+
+
 ## 联系我
 给我加星，然后给我发邮件吧.
+
+## 参考
+
+https://www.jianshu.com/p/1e669c17c7ad?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation , 里面有写ItemPipeline怎么用
